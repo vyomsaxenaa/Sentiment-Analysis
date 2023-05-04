@@ -20,20 +20,18 @@ import re
 from textblob import TextBlob
 from nltk.stem.porter import PorterStemmer
 port=PorterStemmer()
-#Usage
+# Usage
 Clone the repository to your local machine.
 Navigate to the project directory.
 Run python sentiment_analysis.py in the terminal.
 Input the text you want to analyze.
 The output will show the sentiment of the input text as either positive, negative, or neutral.
-#License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-#Contributing
+# Contributing
 Contributions are welcome! Please feel free to submit a pull request if you find any issues or want to add a new feature to the project.
 
-#Acknowledgments
-This project is inspired by the work of various NLP researchers and practitioners. Special thanks to the authors of the movie review dataset used in this project for providing the data for research and education purposes.
+# Acknowledgments
+This project is inspired by the work of various NLP researchers and practitioners.
 
-#Contact
+# Contact
 For any questions or concerns, please feel free to contact me at my email: vyom198@gmail.com.
