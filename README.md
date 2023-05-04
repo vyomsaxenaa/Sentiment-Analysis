@@ -1,10 +1,10 @@
 # Sentiment-Analysis
 This is a simple Sentiment Analysis project that analyzes the sentiment of textual data using natural language processing (NLP) techniques. The project is built using Python and the popular NLP library, NLTK.
 
-#Description
+# Description
 Sentiment Analysis is a technique used to extract and quantify the emotional tone of a given text. The purpose of this project is to analyze the sentiment of textual data and classify it as positive, negative, or neutral. The project uses NLTK for text preprocessing, feature extraction, and classification. The dataset used for training and testing the model is a publicly available movie review dataset that contains positive and negative reviews.
 
-#Installation
+# Installation
 To run the project on your local machine, you need to have Python 3 installed. You also need to install the following dependencies:
 
 pip install nltk
