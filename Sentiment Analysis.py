@@ -64,7 +64,7 @@ word_remove(clean_text_3)
 
     
 
-########LEMITIZATION#########
+"""LEMITIZATION"""
 from nltk.stem.wordnet import WordNetLemmatizer
 wnet=WordNetLemmatizer()
 import nltk
